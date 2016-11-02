@@ -1,6 +1,6 @@
 ## Synopsis
 
-Zadanie_11.6 is a simple search engine, which search countries, their capital and currencies. 
+This is a simple search engine, which search countries, their capital and currencies. 
 
 ## Motivation
 
